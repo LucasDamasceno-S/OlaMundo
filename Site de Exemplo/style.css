@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: #f7f7f7;
+}
+main{
+    background-color: rgb(170, 165, 165);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.342);
+    max-width: 960px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
